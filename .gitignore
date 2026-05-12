@@ -1,0 +1,18 @@
+# Compiled binaries
+out
+a.out
+*.o
+*.so
+*.a
+data.bin
+output.txt
+
+# Sanitiser / debug artefacts
+*.dSYM/
+vgcore.*
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
