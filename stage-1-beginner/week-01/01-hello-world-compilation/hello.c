@@ -5,6 +5,7 @@
 /* TODO 3: Recompile with -v and read the output */
 
 int main(void) {
-    /* your code here */
+    printf("Hello, World!\n");
+    printf("My name is John Doe.\n");
     return 0;
 }
